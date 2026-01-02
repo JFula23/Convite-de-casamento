@@ -1,0 +1,61 @@
+```html
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Convite de Casamento</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #fff8e7;
+      color: #444;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      color: #b89d28;
+    }
+    .box {
+      background: white;
+      border: 2px solid #b89d28;
+      padding: 20px;
+      border-radius: 10px;
+      display: inline-block;
+      max-width: 500px;
+    }
+    button {
+      background-color: #b89d28;
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      margin: 10px;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    a {
+      text-decoration: none;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>💍 Antónia & Jorge 💍</h1>
+    <p>Convidam você para o seu casamento!</p>
+    <p><strong>📅 13 de Agosto de 2026<br>🕕 18h30min</strong></p>
+    <p><strong>📍 Salão de Festas LD – Cacuaco</strong><br>Estrada Direita da Vila, junto à pedonal azul</p>
+
+    <button>
+<a href="https://wa.me/244955824254?text=Confirmo%20minha%20presença%20no%20casamento%20de%20Antónia%20e%20Jorge!" target="_blank">Confirmar Presença</a>
+    </button>
+
+    <button>
+      <a href="https://www.google.com/maps/search/Salão+LD,+Cacuaco,+Luanda" target="_blank">Ver Localização</a>
+    </button>
+
+    <p style="margin-top:20px;">Contamos com a sua presença!</p>
+  </div>
+</body>
+</html>
+``
